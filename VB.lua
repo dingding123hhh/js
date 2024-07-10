@@ -54,7 +54,7 @@ about:Label("脚本疯狂优化中")
 about:Label("你的注入器:"..identifyexecutor())
 about:Label("你的用户名:"..game.Players.LocalPlayer.Character.Name)
 
-local UITab2 = win:Tab("『通用』",'16060333448')
+local UITab2 = win:Tab("『通用』",'18426482395')
 
 local about = UITab2:section("『通用』",true)
 
